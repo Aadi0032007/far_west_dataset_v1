@@ -8,6 +8,6 @@ names: ['milk-jug']
 roboflow:
   workspace: aditya-raj-kmypu
   project: milk-jug
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/aditya-raj-kmypu/milk-jug/dataset/1
+  url: https://universe.roboflow.com/aditya-raj-kmypu/milk-jug/dataset/2
